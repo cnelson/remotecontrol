@@ -1,0 +1,11 @@
+major_version=9
+minor_version=1
+build_version=6
+
+title=remotecontrol
+subtitle=hax to play usb video
+
+mm_icon_focus_hd=pkg:/chrome/icon.png
+
+splash_color=#000000
+splash_min_time=0

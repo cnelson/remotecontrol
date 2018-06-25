@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<component name="playa" extends="Scene" >
+    <interface>
+        <field id="content" type="node" onChange="NewContent" />
+    </interface>
+    <children>
+        <Video id="vidiot"/>
+    </children>
+
+    <script type="text/brightscript" uri="playa.brs" />
+</component>
