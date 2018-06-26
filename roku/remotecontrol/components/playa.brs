@@ -4,6 +4,7 @@ function init()
     video.setFocus(true)
     video.enableUI  = false
     video.enableTrickPlay = false
+    video.loop = true
 end function
 
 ' this gets called when the main thread gets a Remote Control API message
